@@ -61,8 +61,8 @@ Low efficiency
 bash
 Copy
 Edit
-git clone https://github.com/data-guru0/UDEMY-MLOPS-COURSE.git
-cd "UDEMY-MLOPS-COURSE/SMART MACHINES EFFICIENCY PREDICTION"
+git clone https://github.com/Kiran8053?tab=repositories.git
+cd "Kiran8053/Smart Machines Efficiency Prediction"
 
 2️⃣ Create & activate a virtual environment
 bash
