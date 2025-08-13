@@ -143,8 +143,11 @@ Hour: 14
 Sample Output:
 
 makefile
+
 Copy
+
 Edit
+
 Efficiency: High
 
 📜 License
